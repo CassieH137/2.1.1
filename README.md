@@ -1,5 +1,5 @@
-# 2.1.1
-MLIA
+# kNN.py
+MLIA - 2.1.1
 
 from numpy import *
 import operator
